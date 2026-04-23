@@ -1,0 +1,16 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges
+Male,0,Yes,No,12,Yes,DSL,Month-to-month,Electronic check,70,840
+Female,1,No,No,2,Yes,Fiber optic,Month-to-month,Mailed check,95,190
+Male,0,Yes,Yes,24,Yes,DSL,One year,Bank transfer (automatic),60,1440
+Female,0,No,No,1,No,No,Month-to-month,Electronic check,20,20
+Male,1,No,No,3,Yes,Fiber optic,Month-to-month,Credit card (automatic),100,300
+Female,0,Yes,Yes,36,Yes,DSL,Two year,Bank transfer (automatic),65,2340
+Male,0,No,No,6,Yes,Fiber optic,Month-to-month,Electronic check,85,510
+Female,1,Yes,No,18,Yes,DSL,One year,Mailed check,55,990
+Male,0,Yes,Yes,48,Yes,DSL,Two year,Credit card (automatic),75,3600
+Female,0,No,No,5,Yes,Fiber optic,Month-to-month,Electronic check,90,450
+Male,1,No,No,10,Yes,Fiber optic,Month-to-month,Electronic check,110,1100
+Female,0,Yes,Yes,60,Yes,DSL,Two year,Bank transfer (automatic),70,4200
+Male,0,No,No,8,Yes,Fiber optic,Month-to-month,Mailed check,95,760
+Female,1,Yes,No,20,Yes,DSL,One year,Credit card (automatic),65,1300
+Male,0,Yes,Yes,72,Yes,DSL,Two year,Bank transfer (automatic),80,5760
