@@ -22,8 +22,3 @@ This project predicts customer churn using Machine Learning and provides a dashb
 
 pip install -r requirements.txt
 streamlit run app.py
-
-## 🌐 Deployment
-
-(Add your Streamlit link here after deployment)
-
